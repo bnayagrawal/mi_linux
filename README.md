@@ -1,0 +1,3 @@
+# Random linux stuffs
+
+Not what it looks like. Just getting started...
